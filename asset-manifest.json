@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/foodtruckFrontEndDemo/static/css/main.6f38b8a3.chunk.css",
+    "main.js": "/foodtruckFrontEndDemo/static/js/main.1da37862.chunk.js",
+    "main.js.map": "/foodtruckFrontEndDemo/static/js/main.1da37862.chunk.js.map",
+    "runtime~main.js": "/foodtruckFrontEndDemo/static/js/runtime~main.753aafc9.js",
+    "runtime~main.js.map": "/foodtruckFrontEndDemo/static/js/runtime~main.753aafc9.js.map",
+    "static/css/2.a1a5a738.chunk.css": "/foodtruckFrontEndDemo/static/css/2.a1a5a738.chunk.css",
+    "static/js/2.51a7c1a7.chunk.js": "/foodtruckFrontEndDemo/static/js/2.51a7c1a7.chunk.js",
+    "static/js/2.51a7c1a7.chunk.js.map": "/foodtruckFrontEndDemo/static/js/2.51a7c1a7.chunk.js.map",
+    "index.html": "/foodtruckFrontEndDemo/index.html",
+    "precache-manifest.b2e1e499c30633779aeb24f005e5d5a8.js": "/foodtruckFrontEndDemo/precache-manifest.b2e1e499c30633779aeb24f005e5d5a8.js",
+    "service-worker.js": "/foodtruckFrontEndDemo/service-worker.js",
+    "static/css/2.a1a5a738.chunk.css.map": "/foodtruckFrontEndDemo/static/css/2.a1a5a738.chunk.css.map",
+    "static/css/main.6f38b8a3.chunk.css.map": "/foodtruckFrontEndDemo/static/css/main.6f38b8a3.chunk.css.map",
+    "static/media/HambreLogo.png": "/foodtruckFrontEndDemo/static/media/HambreLogo.e4ecf5ea.png",
+    "static/media/foodMapMarker.png": "/foodtruckFrontEndDemo/static/media/foodMapMarker.daf07576.png",
+    "static/media/logo.svg": "/foodtruckFrontEndDemo/static/media/logo.5d5d9eef.svg"
+  }
+}
